@@ -76,6 +76,12 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: var(--justify-important);
+
+}
+
+article {
+    margin: 2rem 0;
+
 }
 
 section img,
