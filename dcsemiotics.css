@@ -51,9 +51,9 @@ body {
     color: var(--color-text);
     font-family: var(--font-family);
     line-height: var(--line-height);
-    margin: 0;
+    margin: 0px auto;
     overflow-x: hidden;
-    padding: 0;
+    padding: 1rm 0;
 }
 
 footer,
